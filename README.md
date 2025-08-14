@@ -69,5 +69,4 @@ See repository for license details.
 ## Author
 
 - [yashrana23](https://github.com/yashrana23)
-
-```
+  
